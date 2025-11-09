@@ -62,4 +62,3 @@ window.addEventListener("scroll", () => {
     icon.style.transform = `translateY(${y * 0.05}px) scale(1)`;
   });
 });
-
